@@ -6,7 +6,7 @@ This repository is recommended to be used via the unirtos-cli demo workflow to e
 
 ## Feature Description
 
-<span style="color:red"><strong>Note: Once secure boot is enabled, it usually cannot be rolled back. Please use with caution.</strong></span>
+> **Note: Once secure boot is enabled, it usually cannot be rolled back. Please use with caution.**
 
 This demo demonstrates secure boot (Secboot) feature management on UniRTOS, including enabling secure boot and periodically querying its state.
 
