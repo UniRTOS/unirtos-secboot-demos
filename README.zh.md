@@ -6,6 +6,8 @@
 
 ## 功能描述
 
+<span style="color:red"><strong>注意：安全启动一旦使能通常无法回退，请谨慎使用。</strong></span>
+
 本 Demo 展示 UniRTOS 上安全启动（Secboot）功能管理，包括使能安全启动与周期性查询其状态。
 
 - 演示通过 `qosa_secboot_enable` 使能安全启动
